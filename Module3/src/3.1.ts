@@ -2,6 +2,7 @@
     // class -oop
 
     class Animal{
+        
         name: string;
         species: string;
         sound: string;
